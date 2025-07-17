@@ -18,6 +18,7 @@ Install the required dependencies:
 ```bash
 pip install -r requirements.txt
 ```
+Or Simply download [Youtube Uploader](https://github.com/zPabsy/YoutubeUploadAPI/releases/download/youtube/YouTube_Uploader.exe) executables on release.
 
 ## Setup
 
